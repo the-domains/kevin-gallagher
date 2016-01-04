@@ -1,0 +1,28 @@
+name: Kevin Gallagher
+favicon: null
+layout_spectrum: 0.9098193098325282
+typography_spectrum: 0.11092027323320508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.024263012688606977
+  lightness: 0.36086443858221173
+  saturation: 0.9120548367500305
+  rhythmicContrast: 0.9599159571807832
+purpose: []
